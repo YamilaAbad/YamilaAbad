@@ -3,7 +3,8 @@
 
 - <a href="https://emoji.gg/emoji/7860-nitro"><img src="https://cdn3.emoji.gg/emojis/7860-nitro.gif" width="50px" height="50px" alt="nitro"></a> I’m currently learning **JS, Java, Angular, React, Design in Unreal, English**
 
-- <a href="https://emoji.gg/emoji/8062-nitro"><img src="https://cdn3.emoji.gg/emojis/8062-nitro.gif" width="50px" height="50px" alt="nitro"></a>A little about me: I'm a software development student (UNICEN), passionate about video games, especially MMORPG. I dream of one day being able to be a video game designer and developer. <a href="https://emoji.gg/emoji/5351-klee-heart"><img src="https://cdn3.emoji.gg/emojis/5351-klee-heart.png" width="28px" height="28px" alt="klee_heart"></a>
+- <a href="https://emoji.gg/emoji/8062-nitro"><img src="https://cdn3.emoji.gg/emojis/8062-nitro.gif" width="50px" height="50px" alt="nitro"></a>A little about me: I'm a software development student (UNICEN), passionate about video games, especially MMORPG. 
+I dream of one day being able to be a video game designer and developer. <a href="https://emoji.gg/emoji/5351-klee-heart"><img src="https://cdn3.emoji.gg/emojis/5351-klee-heart.png" width="28px" height="28px" alt="klee_heart"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
